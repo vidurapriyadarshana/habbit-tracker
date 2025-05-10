@@ -22,8 +22,6 @@ const AddHabbit = () => {
 
             setName("")
         }
-
-
     }
 
     return (
